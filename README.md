@@ -1,4 +1,4 @@
-# real-estate-price-prediction-website
+# Real-estate-price-prediction-website
 Developed a comprehensive real estate price prediction website
 - Build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com.
 - Write a python flask server that uses the saved model to serve http requests.
